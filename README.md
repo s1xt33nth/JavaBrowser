@@ -21,6 +21,3 @@ A simple browser by Java.
 此文件包含名为WebBrowser的public类，其主要功能为生成网页浏览器的主体框架，实现框架上各个组件的事件监听。WebBrowser.java主要包括四个模块：图形用户界面的构建、组件监听接口的实现、文件保存功能的实现、查看源代码框架的生成。
 2. ViewSourceFrame.java
 此文件包含名为ViewSourceFrame的类，其主要功能是实现了源文件查看的主题框架，并实现了源文件的保存功能。ViewSourceFrame.java主要包括两个模块：图形用户界面的构建和组件监听接口的实现。
-
-# 代码实现
-[https://github.com/s1xt33nth/JavaBrowser](https://github.com/s1xt33nth/JavaBrowser "https://github.com/s1xt33nth/JavaBrowser")
